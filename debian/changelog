@@ -1,3 +1,9 @@
+dstat (0.7.3-1bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 30 Jul 2018 12:23:48 +0200
+
 dstat (0.7.3-1) unstable; urgency=medium
 
   * New upstream release (closes: #851494)
